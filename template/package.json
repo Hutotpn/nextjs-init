@@ -1,5 +1,5 @@
 {
-  "name": "INSERT",
+  "name": "insert",
   "version": "1.0.0",
   "description": "INSERT",
   "scripts": {
@@ -13,7 +13,7 @@
     "url": "git+https://github.com/INSERT.git"
   },
   "keywords": [
-    "INSERT",
+    "INSERT"
   ],
   "author": "Huto",
   "license": "UNLICENSED",
