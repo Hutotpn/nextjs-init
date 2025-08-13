@@ -1,0 +1,25 @@
+{
+  "name": "@hutotpn/nextjs-init",
+  "version": "1.0.1",
+  "description": "Huto's Next.js Initializer",
+  "bin": {
+    "nextjs-init": "./cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hutotpn/nextjs-init.git"
+  },
+  "keywords": [
+    "nextjs",
+    "nextjs-starter"
+  ],
+  "author": "Huto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hutotpn/nextjs-init/issues"
+  },
+  "homepage": "https://github.com/Hutotpn/nextjs-init#readme"
+}
