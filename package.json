@@ -1,6 +1,6 @@
 {
   "name": "@hutotpn/nextjs-init",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Huto's Next.js Initializer",
   "bin": {
     "nextjs-init": "./cli.js"
